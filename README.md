@@ -1,2 +1,3 @@
 # Manage_SalesProducts
- managing sales using django 
+
+here I have used django framework for backend and html,css,js for frontend.
